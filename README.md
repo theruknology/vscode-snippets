@@ -1,4 +1,4 @@
-# Cusotm VSCode Snippets
+# Custom VSCode Snippets
 
 ### This repo contains custom snippets I made for my workflow in different projects like:
 
